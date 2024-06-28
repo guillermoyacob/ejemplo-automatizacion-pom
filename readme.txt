@@ -1,0 +1,1 @@
+Automatización con Java usando el modelo Page Object Model (POM), usando el IDE Intellij Idea y se usó Maven como gestor de dependencias, como dependencias se usaron Selenium y JUnit y también se usó ChromeDriver para manejar el navegador.
